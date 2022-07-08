@@ -1,0 +1,214 @@
+		Kingdom	Phylum	Class	Order	Family	Genus	Species
+LSUzotu1	Cg	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Sordariales	f:Chaetomiaceae	g:Chaetomium	s:Chaetomium_globosum
+LSUzotu12	27HJ11_05677863_05677863	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Raffaelea	s:Raffaelea_sulphurea
+LSUzotu13	Pc	k:Fungi	p:Ascomycota	c:Eurotiomycetes	o:Eurotiales	f:Trichocomaceae	g:Penicillium	s:Penicillium_commune
+LSUzotu10	27HJ13_05677900_05677900	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Raffaelea	s:Raffaelea_canadensis
+LSUzotu8	Pc	k:Fungi	p:Ascomycota	c:Eurotiomycetes	o:Eurotiales	f:Trichocomaceae	g:Penicillium	s:Penicillium_commune
+LSUzotu2	27HJ11_05677863_05677863	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Raffaelea	s:Raffaelea_sulphurea
+LSUzotu6	Ss	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Sporothrix	s:Sporothrix_stenoceras
+LSUzotu16	Pc	k:Fungi	p:Ascomycota	c:Eurotiomycetes	o:Eurotiales	f:Trichocomaceae	g:Penicillium	s:Penicillium_commune
+LSUzotu7	27HJ11_05677863_05677863	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Raffaelea	s:Raffaelea_sulphurea
+LSUzotu4	27HJ13_05677900_05677900	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Raffaelea	s:Raffaelea_canadensis
+LSUzotu18	Pc	k:Fungi	p:Ascomycota	c:Eurotiomycetes	o:Eurotiales	f:Trichocomaceae	g:Penicillium	s:Penicillium_commune
+LSUzotu29	Cg	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Sordariales	f:Chaetomiaceae	g:Chaetomium	s:Chaetomium_globosum
+LSUzotu37	27HJ13_05677900_05677900	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Raffaelea	s:Raffaelea_canadensis
+LSUzotu40	27HJ13_05677900_05677900	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Raffaelea	s:Raffaelea_canadensis
+LSUzotu54	Ss	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Sporothrix	s:Sporothrix_stenoceras
+LSUzotu58	Pc	k:Fungi	p:Ascomycota	c:Eurotiomycetes	o:Eurotiales	f:Trichocomaceae	g:Penicillium	s:Penicillium_commune
+LSUzotu99	Pc	k:Fungi	p:Ascomycota	c:Eurotiomycetes	o:Eurotiales	f:Trichocomaceae	g:Penicillium	s:Penicillium_commune
+LSUzotu138	Ss	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Sporothrix	s:Sporothrix_stenoceras
+LSUzotu158	Ss	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Sporothrix	s:Sporothrix_stenoceras
+LSUzotu190	Ss	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Sporothrix	s:Sporothrix_stenoceras
+LSUzotu3	NG_056978	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Hypocreales	f:Bionectriaceae	g:Acremonium	s:Acremonium_biseptum
+LSUzotu21	JN938937	k:Fungi	p:Ascomycota	c:Eurotiomycetes	o:Eurotiales	f:Trichocomaceae	g:Talaromyces	s:Talaromyces_rugulosus
+LSUzotu70	JX852393	k:Fungi	p:Ascomycota	c:Leotiomycetes	o:Helotiales	f:Helotiales_incertae sedis	g:Xenopolyscytalum	s:Xenopolyscytalum_sp._I12F-02273
+LSUzotu87	JF773595	k:Fungi	p:Ascomycota	c:Dothideomycetes	o:Capnodiales	f:Cladosporiaceae	g:Cladosporium	s:Cladosporium_sp._CHTAE11
+LSUzotu164	HE615136	k:Fungi	p:Ascomycota	c:Eurotiomycetes	o:Eurotiales	f:Aspergillaceae	g:Aspergillus	s:Aspergillus_costiformis
+LSUzotu173	MF467945	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Xylariales	f:Diatrypaceae	g:Diatrypella	s:Diatrypella_vulgaris
+LSUzotu193	HE615136	k:Fungi	p:Ascomycota	c:Eurotiomycetes	o:Eurotiales	f:Aspergillaceae	g:Aspergillus	s:Aspergillus_costiformis
+LSUzotu5	Zotu5	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Raffaelea	s:Raffaelea_canadensis
+LSUzotu22	Zotu22	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Raffaelea	s:Raffaelea_sulphurea
+LSUzotu15	Zotu15	k:Fungi	p:Ascomycota	c:Eurotiomycetes	o:Eurotiales	f:Trichocomaceae	g:Penicillium	
+LSUzotu19	Zotu19	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Sordariales	f:Chaetomiaceae	g:Chaetomium	s:Chaetomium_globosum
+LSUzotu9	Zotu9	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Raffaelea	
+LSUzotu11	Zotu11	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Raffaelea	s:Raffaelea_canadensis
+LSUzotu17	Zotu17	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Sordariales	f:Chaetomiaceae	g:Chaetomium	
+LSUzotu14	Zotu14	k:Fungi	p:Ascomycota	c:Eurotiomycetes	o:Eurotiales	f:Trichocomaceae	g:Penicillium	
+LSUzotu20	Zotu20	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Sordariales	f:Chaetomiaceae	g:Chaetomium	s:Chaetomium_globosum
+LSUzotu23	Zotu23	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Raffaelea	s:Raffaelea_sulphurea
+LSUzotu24	Zotu24	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Raffaelea	s:Raffaelea_sulphurea
+LSUzotu35	Zotu35	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Raffaelea	s:Raffaelea_sulphurea
+LSUzotu25	Zotu25	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Raffaelea	s:Raffaelea_sulphurea
+LSUzotu31	Zotu31	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Raffaelea	s:Raffaelea_canadensis
+LSUzotu26	Zotu26	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Sordariales	f:Chaetomiaceae	g:Chaetomium	
+LSUzotu28	Zotu28	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales			
+LSUzotu27	Zotu27	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales			
+LSUzotu30	Zotu30	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Sordariales	f:Chaetomiaceae		
+LSUzotu36	Zotu36	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Raffaelea	s:Raffaelea_sulphurea
+LSUzotu32	Zotu32	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Raffaelea	
+LSUzotu33	Zotu33	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Raffaelea	s:Raffaelea_sulphurea
+LSUzotu34	Zotu34	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu45	Zotu45	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Raffaelea	s:Raffaelea_canadensis
+LSUzotu38	Zotu38	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Raffaelea	s:Raffaelea_canadensis
+LSUzotu39	Zotu39	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Raffaelea	s:Raffaelea_canadensis
+LSUzotu41	Zotu41	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu43	Zotu43	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Sordariales	f:Chaetomiaceae	g:Chaetomium	s:Chaetomium_globosum
+LSUzotu49	Zotu49	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu44	Zotu44	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Raffaelea	s:Raffaelea_canadensis
+LSUzotu42	Zotu42	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Sordariales	f:Chaetomiaceae		
+LSUzotu46	Zotu46	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu47	Zotu47	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu48	Zotu48	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Raffaelea	s:Raffaelea_canadensis
+LSUzotu51	Zotu51	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Raffaelea	s:Raffaelea_canadensis
+LSUzotu52	Zotu52	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Raffaelea	
+LSUzotu50	Zotu50	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Raffaelea	s:Raffaelea_canadensis
+LSUzotu55	Zotu55	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Hypocreales	f:Bionectriaceae	g:Acremonium	
+LSUzotu53	Zotu53	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu57	Zotu57	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu60	Zotu60	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu56	Zotu56	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu59	Zotu59	k:Fungi	p:Ascomycota					
+LSUzotu61	Zotu61	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu65	Zotu65	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Raffaelea	s:Raffaelea_sulphurea
+LSUzotu63	Zotu63	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu64	Zotu64	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu62	Zotu62	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Sordariales	f:Chaetomiaceae		
+LSUzotu67	Zotu67	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Raffaelea	s:Raffaelea_canadensis
+LSUzotu66	Zotu66	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu69	Zotu69	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu68	Zotu68	k:Fungi	p:Ascomycota					
+LSUzotu71	Zotu71	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Raffaelea	s:Raffaelea_canadensis
+LSUzotu72	Zotu72	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Raffaelea	s:Raffaelea_sulphurea
+LSUzotu73	Zotu73	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu74	Zotu74	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu75	Zotu75	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu76	Zotu76	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Sordariales			
+LSUzotu77	Zotu77	k:Fungi	p:Ascomycota					
+LSUzotu79	Zotu79	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu81	Zotu81	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Sordariales	f:Chaetomiaceae		
+LSUzotu78	Zotu78	k:Fungi	p:Ascomycota	c:Eurotiomycetes				
+LSUzotu80	Zotu80	k:Fungi	p:Ascomycota					
+LSUzotu82	Zotu82	k:Fungi	p:Ascomycota					
+LSUzotu84	Zotu84	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu83	Zotu83	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu86	Zotu86	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales			
+LSUzotu85	Zotu85	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Hypocreales			
+LSUzotu88	Zotu88	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu90	Zotu90	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Sordariales	f:Chaetomiaceae	g:Chaetomium	
+LSUzotu89	Zotu89	k:Fungi	p:Ascomycota					
+LSUzotu91	Zotu91	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu92	Zotu92	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu93	Zotu93	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Hypocreales	f:Bionectriaceae	g:Acremonium	
+LSUzotu94	Zotu94	k:Fungi	p:Ascomycota	c:Eurotiomycetes				
+LSUzotu98	Zotu98	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu96	Zotu96	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu95	Zotu95	k:Fungi	p:Ascomycota					
+LSUzotu103	Zotu103	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Hypocreales			
+LSUzotu102	Zotu102	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu97	Zotu97	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Sordariales	f:Chaetomiaceae	g:Chaetomium	
+LSUzotu100	Zotu100	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu101	Zotu101	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu106	Zotu106	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu105	Zotu105	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu107	Zotu107	k:Fungi	p:Ascomycota					
+LSUzotu104	Zotu104	k:Fungi	p:Ascomycota					
+LSUzotu109	Zotu109	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Xylariales			
+LSUzotu110	Zotu110	k:Fungi	p:Ascomycota					
+LSUzotu108	Zotu108	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu112	Zotu112	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Hypocreales			
+LSUzotu114	Zotu114	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Sordariales	f:Chaetomiaceae		
+LSUzotu116	Zotu116	k:Fungi	p:Ascomycota					
+LSUzotu115	Zotu115	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Hypocreales			
+LSUzotu111	Zotu111	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu119	Zotu119	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae		
+LSUzotu118	Zotu118	k:Fungi	p:Ascomycota					
+LSUzotu113	Zotu113	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu117	Zotu117	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Raffaelea	s:Raffaelea_sulphurea
+LSUzotu123	Zotu123	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Raffaelea	s:Raffaelea_canadensis
+LSUzotu124	Zotu124	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu122	Zotu122	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu120	Zotu120	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu126	Zotu126	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu121	Zotu121	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Sordariales			
+LSUzotu127	Zotu127	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Sordariales			
+LSUzotu125	Zotu125	k:Fungi	p:Ascomycota					
+LSUzotu128	Zotu128	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu129	Zotu129	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Hypocreales			
+LSUzotu130	Zotu130	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Sordariales	f:Chaetomiaceae		
+LSUzotu131	Zotu131	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu133	Zotu133	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu134	Zotu134	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Hypocreales	f:Bionectriaceae	g:Acremonium	
+LSUzotu135	Zotu135	k:Fungi	p:Ascomycota	c:Eurotiomycetes	o:Eurotiales	f:Thermoascaceae		
+LSUzotu136	Zotu136	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Sordariales			
+LSUzotu132	Zotu132	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Hypocreales			
+LSUzotu137	Zotu137	k:Fungi	p:Ascomycota					
+LSUzotu139	Zotu139	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu140	Zotu140	k:Fungi	p:Ascomycota					
+LSUzotu142	Zotu142	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Sordariales			
+LSUzotu143	Zotu143	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Hypocreales			
+LSUzotu144	Zotu144	k:Fungi	p:Ascomycota					
+LSUzotu146	Zotu146	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Raffaelea	s:Raffaelea_sulphurea
+LSUzotu145	Zotu145	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu141	Zotu141	k:Fungi						
+LSUzotu148	Zotu148	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Raffaelea	s:Raffaelea_sulphurea
+LSUzotu150	Zotu150	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Hypocreales			
+LSUzotu147	Zotu147	k:Fungi	p:Ascomycota	c:Eurotiomycetes	o:Eurotiales	f:Trichocomaceae	g:Penicillium	
+LSUzotu149	Zotu149	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Sordariales			
+LSUzotu151	Zotu151	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu152	Zotu152	k:Fungi	p:Ascomycota	c:Eurotiomycetes	o:Eurotiales			
+LSUzotu153	Zotu153	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu154	Zotu154	k:Fungi	p:Ascomycota					
+LSUzotu155	Zotu155	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Sordariales			
+LSUzotu157	Zotu157	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu159	Zotu159	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Raffaelea	s:Raffaelea_sulphurea
+LSUzotu161	Zotu161	k:Fungi	p:Ascomycota	c:Eurotiomycetes	o:Eurotiales			
+LSUzotu156	Zotu156	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu162	Zotu162	k:Fungi	p:Ascomycota	c:Eurotiomycetes	o:Eurotiales			
+LSUzotu163	Zotu163	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu160	Zotu160	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu165	Zotu165	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu166	Zotu166	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu167	Zotu167	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu168	Zotu168	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu169	Zotu169	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu170	Zotu170	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Sordariales			
+LSUzotu171	Zotu171	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu174	Zotu174	k:Fungi	p:Ascomycota					
+LSUzotu175	Zotu175	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu177	Zotu177	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Ophiostomatales	f:Ophiostomataceae	g:Raffaelea	s:Raffaelea_sulphurea
+LSUzotu176	Zotu176	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Hypocreales			
+LSUzotu172	Zotu172	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu179	Zotu179	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu178	Zotu178	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Hypocreales			
+LSUzotu180	Zotu180	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu181	Zotu181	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu183	Zotu183	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Hypocreales	f:Bionectriaceae	g:Acremonium	
+LSUzotu182	Zotu182	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu184	Zotu184	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu185	Zotu185	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu186	Zotu186	k:Fungi	p:Ascomycota	c:Eurotiomycetes	o:Eurotiales	f:Thermoascaceae	g:Paecilomyces	
+LSUzotu188	Zotu188	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu189	Zotu189	k:Fungi	p:Ascomycota	c:Eurotiomycetes				
+LSUzotu187	Zotu187	k:Fungi	p:Ascomycota					
+LSUzotu191	Zotu191	k:Fungi	p:Ascomycota	c:Eurotiomycetes				
+LSUzotu196	Zotu196	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu192	Zotu192	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Hypocreales	f:Bionectriaceae	g:Acremonium	
+LSUzotu194	Zotu194	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu197	Zotu197	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu195	Zotu195	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu198	Zotu198	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu200	Zotu200	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu199	Zotu199	k:Fungi	p:Ascomycota					
+LSUzotu202	Zotu202	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu201	Zotu201	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu203	Zotu203	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu204	Zotu204	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu206	Zotu206	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu207	Zotu207	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu205	Zotu205	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu208	Zotu208	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Hypocreales	f:Bionectriaceae	g:Acremonium	
+LSUzotu210	Zotu210	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu209	Zotu209	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu211	Zotu211	k:Fungi	p:Ascomycota					
+LSUzotu213	Zotu213	k:Fungi	p:Ascomycota	c:Sordariomycetes				
+LSUzotu212	Zotu212	k:Fungi	p:Ascomycota	c:Sordariomycetes	o:Sordariales			
