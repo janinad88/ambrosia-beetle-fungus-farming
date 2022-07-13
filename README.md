@@ -2,4 +2,20 @@
 ## Additional information, scripts and data of the research project on active ambrosia beetle fungus farming
 
 Abstract:
-Active management of fungal cultivars is a criterion for advanced agriculture in fungus farming insects and has been repeatedly shown for fungus-farming ants and to a lesser degree also termites. Since the late 19th century it is only assumed for ambrosia beetles. Very little knowledge on the actual farming practices and the ability of ambrosia beetles to actively promote the growth of their food fungi over others is present. With the application of amplicon sequencing of the fungus garden microbiome a first step was attempted towards real evidence. We sequenced the fungal and bacterial community of Xyleborinus saxesenii galleries, which either had an active nest with beetles present or where foundresses had been removed after successful inoculation of the mutualist. Beetle presence benefitted the mutualistic food fungi and showed a higher relative abundance, whereas contaminating molds were reduced. Moreover, bacterial community had a lower diversity in their presence and revealed a vertical transmission of primary and secondary symbionts. Our findings verify the existence of active farm behaviour in these beetles and show the positive influence of an active nest with larvae and adults present. Though, the exact measures need further investigation.
+Fungal cultivation is a defining feature for advanced agriculture in fungus-farming insects
+and has been repeatedly shown for ants and to a lesser degree also termites. Wood 
+colonizing ambrosia beetles are closely associated with specialized food fungi. Since the 
+19th century, active farming has been assumed for these beetles based on their social 
+and hygienic behaviors. However, a proof of the effectiveness of beetle activity for 
+selective promotion of their food fungi over others is unknown. Here, we experimentally 
+removed mothers and their offspring from young nests of the fruit-tree pinhole borer, 
+Xyleborinus saxesenii. By amplicon sequencing of bacterial and fungal communities we 
+could show that in control nests, beetles are indeed able to actively shift symbiont 
+communities. Although being consumed, the Raffaelea food fungi were more abundant 
+when beetles were present while a weed fungus (Chaetomium sp.) as well as overall 
+bacterial diversity were reduced in comparison to nests without beetles. Core symbiont 
+communities were generally low diverse and there were strong signs for vertical 
+transmission not only for the cultivars, but also secondary symbionts. Our findings verify 
+the existence of active farming, even though the exact mechanisms underlying the 
+selective promotion and/or defense of symbionts need further investigation.
+
